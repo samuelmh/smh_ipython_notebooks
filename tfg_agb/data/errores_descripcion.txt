@@ -1,0 +1,5 @@
+La Columna de Errores corresponde a cada tipo de Error encontrado
+El error Cero son las viñetas que no tienen ningún fallo y está valorado con un -1
+El error cero sin son las viñetas que no tienen texto y está valorado con un -2
+La Columna de Primer puntuaje corresponde al valor completo de toda la viñeta
+Cada error se encuentra por Página, Viñeta, Identifición de error
